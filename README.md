@@ -8,7 +8,7 @@ This tutorial explains how to create and configure user accounts in Microsoft 36
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft 365
-- PC
+- Windows Desktop Computer
 
 <h2>Operating Systems Used</h2>
 
